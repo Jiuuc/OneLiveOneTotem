@@ -1,0 +1,5 @@
+# Number of ticks to set the cooldown time
+cooldown-time: 999999999
+
+# Whether to reset the cooldown after sleeping
+reload-after-sleeping: true

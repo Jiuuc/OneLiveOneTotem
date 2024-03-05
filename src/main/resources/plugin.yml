@@ -1,0 +1,5 @@
+name: OneLifeOneTotem
+version: '${project.version}'
+main: com.github.jiuuc.onelifeonetotem.Main
+api-version: 1.19
+author: Jiuuc
